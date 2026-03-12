@@ -1,1 +1,48 @@
 
+# ATM Machine Project
+
+## 📌 Project Description
+
+This project is a simple **ATM Machine Simulation** developed using **Java programming language**.
+The program allows users to perform basic banking operations such as checking balance, depositing money, and withdrawing money using conditional statements.
+
+## 💻 Technology Used
+
+* Java
+* If-Else Conditions
+* Scanner Class
+
+## ⚙️ Features
+
+* Check Account Balance
+* Deposit Money
+* Withdraw Money
+* Exit from ATM
+
+## ▶️ How to Run the Program
+
+1. Install Java on your system.
+
+2. Open the project in any Java IDE or terminal.
+
+3. Compile the program:
+
+   javac ATM.java
+
+4. Run the program:
+
+   java ATM
+
+## 📚 Learning Outcome
+
+This project helps to understand:
+
+* Basic Java programming
+* Use of if-else conditions
+* User input using Scanner class
+* Simple program logic
+
+## 👨‍💻 Author
+
+Your Name
+B.Tech CSE Student
